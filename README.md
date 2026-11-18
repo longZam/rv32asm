@@ -1,2 +1,2 @@
-# rv32i assembler
+# rv32im assembler
 
